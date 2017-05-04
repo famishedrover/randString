@@ -11,3 +11,10 @@
 ### Updated
 -‘gen’ to ‘genstr’
 -README
+
+## 1.2.0
+2017-05-05
+### Added 
+-‘withWords’ and ‘withLength’ can now take custom string input.
+### Updated
+-‘withWords’ now produces exact specified limit words.

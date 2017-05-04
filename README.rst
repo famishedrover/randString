@@ -5,8 +5,8 @@ Requires length of string or number of words as input.
 pip install randStringify
 
 Functions :
-withLength(length)
-withWords(wordlimit)
+withLength(length , custom='str')
+withWords(wordlimit , custom='str')
 
 Import :
 from genstr as r
@@ -14,3 +14,6 @@ from genstr as r
 Use :
 r.generate.withLength(50)
 r.generate.withWords(10)
+
+prototype = 'asdfwe234'
+r.generate.withWords(10 , custom=prototype)
