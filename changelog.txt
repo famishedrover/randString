@@ -1,0 +1,13 @@
+## simplestatistics chnagelog
+
+## 1.0.0
+2017-05-05
+### Added
+- ‘withLength’ generates string with specified length.
+- ‘withWords’ generates string with specified word length.
+
+## 1.0.1
+2017-05-05
+### Updated
+-‘gen’ to ‘genstr’
+-README
