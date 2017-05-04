@@ -16,5 +16,6 @@
 2017-05-05
 ### Added 
 -‘withWords’ and ‘withLength’ can now take custom string input.
+-‘version’ using __verison__
 ### Updated
 -‘withWords’ now produces exact specified limit words.
